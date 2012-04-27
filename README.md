@@ -19,10 +19,8 @@ the [wiki](https://github.com/jesscarlos/Postmark-PHP-Library/wiki) with documen
 
 ### Licenses
 
-* jQuery : MIT/GPL
-* RequireJS and plugins : MIT/new BSD
-* Tinkerbots images (in demos): Creative Commons CC BY-NC 2.0.
-* Fotofader (c) 2012 Jess Carlos, released under MIT License.
+* Postmark (c) 2012 Wildbit, LLC.
+* Postmark PHP Library (c) 2012 Jess Carlos, released under MIT License.
 
 More information can be found in the comments of the respective files.
 
